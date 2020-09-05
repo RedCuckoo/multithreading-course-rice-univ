@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36788fa7-8aba-4fff-a81a-b570625748b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gvP7L4P0q5cVCL1wO8jgb8E4w2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36788fa7-8aba-4fff-a81a-b570625748b9" name="Default Changelist" comment="" />
+      <created>1598991924853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598991924853</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1599146553950">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1599146553950" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1599053090658">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1599053090658" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1599053090658">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1599053090658" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1599053090657">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1599053090657" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1599053090658">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1599053090658" />
+    <state x="348" y="102" key="NewModule_or_Project.wizard" timestamp="1599146556359">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="348" y="102" key="NewModule_or_Project.wizard/0.40.1366.728@0.40.1366.728" timestamp="1599146556359" />
+    <state x="184" y="40" key="SettingsEditor" timestamp="1599144686309">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="184" y="40" key="SettingsEditor/0.40.1366.728@0.40.1366.728" timestamp="1599144686309" />
+    <state x="379" y="227" key="com.intellij.ide.util.TipDialog" timestamp="1599114149858">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="379" y="227" key="com.intellij.ide.util.TipDialog/0.40.1366.728@0.40.1366.728" timestamp="1599114149858" />
+  </component>
+</project>
